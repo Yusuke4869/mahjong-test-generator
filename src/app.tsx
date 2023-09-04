@@ -1,4 +1,4 @@
-import "destyle.css";
+import { MantineProvider } from "@mantine/core";
 import React from "react";
 import "~/styles/global.scss";
 
@@ -6,7 +6,9 @@ import Router from "./routes";
 
 const App = () => (
   <React.StrictMode>
-    <Router />
+    <MantineProvider withGlobalStyles withNormalizeCSS>
+      <Router />
+    </MantineProvider>
   </React.StrictMode>
 );
 
