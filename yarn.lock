@@ -2311,13 +2311,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"destyle.css@npm:^4.0.0":
-  version: 4.0.0
-  resolution: "destyle.css@npm:4.0.0"
-  checksum: 7c8a948cee431057e3554bad1d68571424eecd007a0f0a170372e1cce92366389843a68249b6e6c533e2d9871ada727c23cc1ed9e618a0d39eb7277b1a0c49fd
-  languageName: node
-  linkType: hard
-
 "detect-node-es@npm:^1.1.0":
   version: 1.1.0
   resolution: "detect-node-es@npm:1.1.0"
@@ -4266,7 +4259,6 @@ __metadata:
     "@typescript-eslint/parser": ^6.0.0
     "@vitejs/plugin-react": ^4.0.0
     autoprefixer: ^10.4.13
-    destyle.css: ^4.0.0
     eslint: ^8.26.0
     eslint-config-airbnb: ^19.0.4
     eslint-config-airbnb-typescript: ^17.0.0
