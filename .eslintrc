@@ -25,7 +25,9 @@
       {
         "namedComponents": "arrow-function"
       }
-    ]
+    ],
+    "import/extensions": "off",
+    "no-restricted-syntax": "off"
   },
   "ignorePatterns": ["*.config.ts", "*.config.js"]
 }
