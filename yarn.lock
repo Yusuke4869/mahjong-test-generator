@@ -4259,9 +4259,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mahjong-test-generation@workspace:.":
+"mahjong-test-generator@workspace:.":
   version: 0.0.0-use.local
-  resolution: "mahjong-test-generation@workspace:."
+  resolution: "mahjong-test-generator@workspace:."
   dependencies:
     "@emotion/react": ^11.11.1
     "@mantine/core": ^6.0.19

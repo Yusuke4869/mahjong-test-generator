@@ -1,1 +1,1 @@
-# mahjong test generation
+# mahjong test generator
