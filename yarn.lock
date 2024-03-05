@@ -4618,7 +4618,7 @@ __metadata:
     stylelint-config-standard-scss: ^11.0.0
     typescript: ^5.0.0
     vite: ^4.0.0
-    wouter: ^2.8.0-alpha.2
+    wouter: ^3.0.0
   languageName: unknown
   linkType: soft
 
@@ -4858,6 +4858,13 @@ __metadata:
     minipass: ^3.0.0
     yallist: ^4.0.0
   checksum: f1fdeac0b07cf8f30fcf12f4b586795b97be856edea22b5e9072707be51fc95d41487faec3f265b42973a304fe3a64acd91a44a3826a963e37b37bafde0212c3
+  languageName: node
+  linkType: hard
+
+"mitt@npm:^3.0.1":
+  version: 3.0.1
+  resolution: "mitt@npm:3.0.1"
+  checksum: b55a489ac9c2949ab166b7f060601d3b6d893a852515ae9eca4e11df01c013876df777ea109317622b5c1c60e8aae252558e33c8c94e14124db38f64a39614b1
   languageName: node
   linkType: hard
 
@@ -5642,6 +5649,13 @@ __metadata:
     define-properties: ^1.2.0
     set-function-name: ^2.0.0
   checksum: 869edff00288442f8d7fa4c9327f91d85f3b3acf8cbbef9ea7a220345cf23e9241b6def9263d2c1ebcf3a316b0aa52ad26a43a84aa02baca3381717b3e307f47
+  languageName: node
+  linkType: hard
+
+"regexparam@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "regexparam@npm:3.0.0"
+  checksum: c8649af1538ccc12b5c5d250525f61bd370227dce41f4fb908433a9651e18b7be21dd8f8518c322dd9ebd75f7caaaea4921e374c39a469c11d4f9d0c738043e0
   languageName: node
   linkType: hard
 
@@ -6997,14 +7011,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"wouter@npm:^2.8.0-alpha.2":
-  version: 2.12.1
-  resolution: "wouter@npm:2.12.1"
+"wouter@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "wouter@npm:3.0.0"
   dependencies:
+    mitt: ^3.0.1
+    regexparam: ^3.0.0
     use-sync-external-store: ^1.0.0
   peerDependencies:
     react: ">=16.8.0"
-  checksum: 89f41a6d7c7cd5e56eea9f4c98e0594f2a6c1fc5166cbee44a08aa87c2c9a10fb3e32db6b50dfd8afa880a1e94ecda121daef2768ba0bbb92a1ea87ed2f6b878
+  checksum: 32feafd4164c2628d3c06de0ab64e53776586d9d334326950d2fc374d373e4997f2a85581de3924a16dd1535c1d876d5740f456c985a22f0b649c4252f0e39fe
   languageName: node
   linkType: hard
 
