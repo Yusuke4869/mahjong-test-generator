@@ -25,7 +25,7 @@
       "yarn format"
     ]
   },
-  "packageManager": "yarn@3.8.6",
+  "packageManager": "yarn@3.8.7",
   "volta": {
     "node": "20.18.1"
   },
