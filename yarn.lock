@@ -1530,12 +1530,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^18.11.8":
-  version: 18.19.130
-  resolution: "@types/node@npm:18.19.130"
+"@types/node@npm:^24.0.0":
+  version: 24.10.13
+  resolution: "@types/node@npm:24.10.13"
   dependencies:
-    undici-types: ~5.26.4
-  checksum: b7032363581c416e721a88cffdc2b47662337cacd20f8294f5619a1abf79615c7fef1521964c2aa9d36ed6aae733e1a03e8c704661bd5a0c2f34b390f41ea395
+    undici-types: ~7.16.0
+  checksum: 254559915b60e204c855d3ea1b94cce187106c49c815a7b8edee1517f8a35301850545a52965e3dd2b5be3b26108e355108bcdb917445e855255a53dbcab3818
   languageName: node
   linkType: hard
 
@@ -5539,7 +5539,7 @@ __metadata:
     "@mantine/hooks": ^6.0.19
     "@mantine/prism": ^6.0.19
     "@trivago/prettier-plugin-sort-imports": ^4.0.0
-    "@types/node": ^18.11.8
+    "@types/node": ^24.0.0
     "@types/react": ^18.0.22
     "@types/react-dom": ^18.0.7
     "@typescript-eslint/eslint-plugin": ^6.0.0
@@ -8051,10 +8051,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"undici-types@npm:~5.26.4":
-  version: 5.26.5
-  resolution: "undici-types@npm:5.26.5"
-  checksum: 3192ef6f3fd5df652f2dc1cd782b49d6ff14dc98e5dced492aa8a8c65425227da5da6aafe22523c67f035a272c599bb89cfe803c1db6311e44bed3042fc25487
+"undici-types@npm:~7.16.0":
+  version: 7.16.0
+  resolution: "undici-types@npm:7.16.0"
+  checksum: 1ef68fc6c5bad200c8b6f17de8e5bc5cfdcadc164ba8d7208cd087cfa8583d922d8316a7fd76c9a658c22b4123d3ff847429185094484fbc65377d695c905857
   languageName: node
   linkType: hard
 
