@@ -27,7 +27,7 @@
   },
   "packageManager": "yarn@3.8.7",
   "volta": {
-    "node": "20.20.0"
+    "node": "24.13.1"
   },
   "dependencies": {
     "@emotion/react": "^11.11.1",
@@ -40,7 +40,7 @@
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.0.0",
-    "@types/node": "^18.11.8",
+    "@types/node": "^24.0.0",
     "@types/react": "^18.0.22",
     "@types/react-dom": "^18.0.7",
     "@typescript-eslint/eslint-plugin": "^6.0.0",
